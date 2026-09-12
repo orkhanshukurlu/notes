@@ -1,0 +1,25 @@
+- initialize go module (go mod init)
+- main function
+- fmt package
+- short variable declaration (:=)
+- types
+- explicit typing (var)
+- constants
+- structs
+- arrays
+- lenth function (len)
+- slices
+- append function (append)
+- make function (make)
+- cut arrays/slices ([start:end])
+- for loop
+- range in for loop
+- print function (print)
+- println function (println)
+- maps
+- delete function (delete)
+- if statement
+- boolean operators
+- switch statement
+- functions
+- math functions

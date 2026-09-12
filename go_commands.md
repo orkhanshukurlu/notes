@@ -1,0 +1,4 @@
+- go mod init
+- go run
+- go env
+- go test
