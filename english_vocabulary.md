@@ -20,3 +20,7 @@
 - throw - Throw the ball to me (Topu mənə at)
 - obviously - Obviously, he was tired (Aydındır ki, o yorğun idi)
 - convenient - This app is very convenient (Bu tətbiq çox rahatdır)
+- truly - I truly enjoyed the lesson (Dərsdən həqiqətən zövq aldım)
+- at all - I don't like it at all (Mən bunu heç bəyənmirəm)
+- struggle - I struggle with fast English (Sürətli ingilis dili ilə çətinlik çəkirəm)
+- used to - I used to play football (Mən əvvəllər futbol oynayırdım)
