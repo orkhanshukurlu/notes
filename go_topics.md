@@ -23,3 +23,12 @@
 - switch statement
 - functions
 - math functions
+- strings concatenation
+- string function (string)
+- nil
+- pointers
+- zero values
+- string formatting
+- floats
+- type conversion
+- multiple return values

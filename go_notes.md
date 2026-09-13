@@ -26,3 +26,14 @@ z := []int{1, 2, 3, 4, 5, 6, 7}
 t1 := z[1:]  // [2 3 4 5 6 7]
 t2 := z[:4]  // [1 2 3 4]
 t3 := z[2:5] // [3 4 5]
+
+s := "Hello"
+s[0] = "X" // error: Cannot assign to s[0]
+
+var f float32 = 0.123456789 // 0.12345679
+
+f := 5.0
+i := 1
+r := f / i // error: f / i (mismatched types float64 and int)
+
+func(a, b int)
