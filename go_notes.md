@@ -37,3 +37,13 @@ i := 1
 r := f / i // error: f / i (mismatched types float64 and int)
 
 func(a, b int)
+
+type Rectangle struct {
+	width, height float64
+}
+
+convention: error messages should be lowercase
+
+type error interface {
+	Error() string
+}

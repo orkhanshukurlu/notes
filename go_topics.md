@@ -32,3 +32,11 @@
 - floats
 - type conversion
 - multiple return values
+- blank identifier (_)
+- errors
+- any type
+- methods and receivers
+- packages
+- interfaces
+- custom error types
+- error interface
