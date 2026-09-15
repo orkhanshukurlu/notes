@@ -40,3 +40,11 @@
 - interfaces
 - custom error types
 - error interface
+- defer
+- pointers as function parameters
+- pointers as receivers
+- for as while loop
+- go get
+- go fmt
+- log package
+- strings package

@@ -2,3 +2,8 @@
 - go run
 - go env
 - go test
+- go get
+- go download
+- go mod tidy
+- go fmt
+- gofmt

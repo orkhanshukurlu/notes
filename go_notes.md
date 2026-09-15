@@ -47,3 +47,14 @@ convention: error messages should be lowercase
 type error interface {
 	Error() string
 }
+
+note: defer -> lifo
+
+x := 10
+defer fmt.Println("x:", x)
+x = 20
+fmt.Println("x:", x)
+// x: 20
+// x: 10
+
+for i := range 3 { ... } // 0, 1, 2
