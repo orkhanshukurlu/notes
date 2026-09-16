@@ -1,9 +1,9 @@
-- go mod init
-- go run
-- go env
-- go test
-- go get
 - go download
-- go mod tidy
+- go env
 - go fmt
+- go get
+- go mod init
+- go mod tidy
+- go run
+- go test
 - gofmt
