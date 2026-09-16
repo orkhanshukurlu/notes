@@ -48,3 +48,11 @@
 - go fmt
 - log package
 - strings package
+- passing maps to functions
+- passing slices to functions
+- variadic functions (...)
+- named return values
+- if statement init clauses
+- types assertions
+- expanding slices in ... (slice...)
+- capacity function (cap())

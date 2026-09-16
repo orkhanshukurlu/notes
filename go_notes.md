@@ -58,3 +58,28 @@ fmt.Println("x:", x)
 // x: 10
 
 for i := range 3 { ... } // 0, 1, 2
+
+s := make([]int, 2)
+s[0], s[1] = 1, 2
+
+func sum(a, b int) (result int) {
+	result = a + b
+	return
+}
+
+var x any = "Hello"
+t := x.(int)
+fmt.Println(t) // panic: interface conversion: interface {} is string, not int
+
+r, ok := x.(int)
+
+s1 := make([]int, 2)
+fmt.Println(s1) // [0 0]
+
+var s2 []int
+fmt.Println(s2) // []
+
+s := make([]int, 2, 4)
+s = append(s, 1, 2, 3, 4, 5, 6)
+fmt.Println("len:", len(s)) // 6
+fmt.Println("cap:", cap(s)) // 8 (if len > cap, cap will increase)
