@@ -56,3 +56,14 @@
 - types assertions
 - expanding slices in ... (slice...)
 - capacity function (cap())
+- writing to files
+- os package
+- time package
+- reading from files
+- io package
+- map lookup with the comma ok idiom
+- reading user input
+- string to number conversation
+- strconv package
+- multiple assignment
+- runes, bytes, strings

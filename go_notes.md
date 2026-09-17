@@ -83,3 +83,43 @@ s := make([]int, 2, 4)
 s = append(s, 1, 2, 3, 4, 5, 6)
 fmt.Println("len:", len(s)) // 6
 fmt.Println("cap:", cap(s)) // 8 (if len > cap, cap will increase)
+
+type User struct {
+	name string
+}
+func (u User) String() string {
+	return fmt.Sprintf("User's name is : %s", u.name)
+}
+func main() {
+	u := User{name: "John"}
+	fmt.Println(u) // User's name is : John
+}
+
+formatted := now.Format("2006-01-02 15:04") // it's not actual value, just format
+fmt.Println("Formatted time:", formatted) // 2026-09-17 14:22
+
+m := map[string]int{"a": 1}
+if val, ok := m["b"]; ok {
+	fmt.Println(val)
+}
+fmt.Println(m["c"]) // 0
+note: it doesn't work for arrays and slices, just for maps
+
+fmt.Scan(&a, &b) // 2 5
+note: they divide by space
+
+a := "Jack"
+b := a[1]
+fmt.Println(b) // 97
+fmt.Printf("%T\n", b) // uint8
+
+c := "café"
+fmt.Println("Length:", len(c)) // 5
+note: é is 2 bytes in UTF-8
+
+d := "é"
+fmt.Println(d[0]) // 195
+for _, r := range d {
+	fmt.Println(r) // 233
+}
+note: string indexing returns a byte, while range returns a rune
