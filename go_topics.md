@@ -67,3 +67,12 @@
 - strconv package
 - multiple assignment
 - runes, bytes, strings
+- appending to slices
+- copying slices
+- copy function (copy())
+- type definitions
+- functions as values
+- anonymous functions
+- closures
+- writer interface (io.Writer)
+- reader interface (io.Reader)

@@ -123,3 +123,12 @@ for _, r := range d {
 	fmt.Println(r) // 233
 }
 note: string indexing returns a byte, while range returns a rune
+
+c := []int{1, 2, 3, 4}
+d := make([]int, 2)
+copy(d, c)
+fmt.Println(d) // [1, 2]
+
+e := []int{1, 2, 3, 4}
+copy(e[1:], e)
+fmt.Println(e) // [1, 1, 2, 3]
