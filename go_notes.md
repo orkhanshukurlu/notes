@@ -132,3 +132,12 @@ fmt.Println(d) // [1, 2]
 e := []int{1, 2, 3, 4}
 copy(e[1:], e)
 fmt.Println(e) // [1, 1, 2, 3]
+
+b := []byte("abc")
+r := []rune("def")
+fmt.Println(b) // [97, 98, 99]
+fmt.Println(r) // [100, 101, 102]
+
+u := User{age: 25}
+j, _ := json.Marshal(u)
+fmt.Println(string(j)) // {}

@@ -76,3 +76,17 @@
 - closures
 - writer interface (io.Writer)
 - reader interface (io.Reader)
+- goto statement
+- break and continue
+- goroutine basics
+- go keyword
+- channel basics
+- chan keyword
+- http server
+- handlers and routes
+- writing http responses
+- write method (w.Write)
+- handling http methods
+- method method ((r.Method))
+- json struct tags
+- json tag (`json:"field"`)
