@@ -1,0 +1,84 @@
+- 01. 09:38 - Getting Started with Go | Installing and Writing Your First Program
+- 02. 09:46 - Primitive Data Types in Go | A Comprehensive Guide to Booleans, Strings, and Numbers
+- 03. 13:25 - Delving into Integer Data Types in Go | Signed, Unsigned, Bytes, and Runes Explained
+- 04. 07:28 - Exploring Float and Complex Numbers in Go | Key Concepts and Examples
+- 05. 09:33 - Understanding the String Data Type in Go | Key Concepts and Usage
+- 06. 11:33 - Unpacking Variables in Go | Definitions, Usage, and Examples
+- 07. 10:43 - Exploring Constants in Go | Definitions and Applications
+- 08. 07:35 - Identifiers and Keywords in Go | What They Are and How They Work
+- 09. 09:18 - Exploring Operators in Go | A Comprehensive Overview
+- 10. 06:29 - Continuing the Exploration of Operators in Go | Advanced Concepts and Examples
+- 11. 12:35 - Arithmetic Operators in Go | Essential Concepts and Practical Code Examples
+- 12. 06:09 - Mastering OR and AND Operators in Go | Essential Concepts and Examples
+- 13. 06:23 - Understanding XOR, AND NOT, and INVERT Operators in Go | A Comprehensive Guide
+- 14. 08:17 - Diving into Bitwise Logical Operators in Go | Concepts and Code Examples
+- 15. 09:42 - Bitwise Shift Operators and Bit Manipulation in Go | What You Need to Know
+- 16. 09:15 - Unlocking Bitwise Shift Operators in Go | A Practical Guide with Code Examples
+- 17. 07:39 - Exploring Arrays in Go | Fundamentals and Key Insights
+- 18. 09:05 - Mastering Arrays in Go | Essential Concepts and Practical Code Examples
+- 19. 10:01 - Unveiling Slices in Go | What They Are and How They Work
+- 20. 09:45 - Deep Dive into Go Slices | Insights and Code Examples
+- 21. 11:15 - Mastering Slicing in Go | Hands-On Code Examples and Techniques
+- 22. 10:17 - Understanding Array and Slice Slicing in Go | Concepts and Techniques
+- 23. 06:19 - Decoding the Connection Between Strings, Runes, and Bytes in Go
+- 24. 10:36 - Unpacking the Relationship Between Strings, Runes, and Bytes in Go | Code Examples
+- 25. 09:25 - Demystifying Maps in Go | How They Work and How to Use Them
+- 26. 12:25 - Hands-On with Maps in Go | Practical Code Examples
+- 27. 09:49 - Understanding Structs in Go | Key Concepts and Usage Explained
+- 28. 08:50 - Hands-On Practice with Structs in Go | Code Examples and Insights
+- 29. 07:33 - Go Conditional Statements | if, if-else, and if-else-if Explained with Examples
+- 30. 07:31 - Conditional Statements in Go | Key Concepts and Practical Examples
+- 31. 10:33 - Understanding Code Blocks and Variable Shadowing in Go | A Guide with Code Examples"
+- 32. 16:48 - Mastering the Multi-Functional For Loop in Go | A Guide with Code Examples
+- 33. 14:00 - Go Control Flow | Mastering Continue, Break, Labels, and Goto with Code Examples
+- 34. 12:06 - Mastering the Switch Statement in Go | A Detailed Guide with Code Examples
+- 35. 09:29 - Understanding Functions in Go | A Comprehensive Guide with Code Examples
+- 36. 06:21 - Exploring Variadic Parameter Functions in Go | An In-Depth Guide with Code Examples
+- 37. 12:58 - Understanding First-Class Functions in Go with Code Examples
+- 38. 09:17 - Closures and Anonymous Functions in Go | Explained with Code Examples
+- 39. 05:45 - Mastering the Defer Statement in Go with Code Examples
+- 40. 12:15 - Understanding Pointers in Go with Code Examples
+- 41. 07:20 - Mastering Pointers and Their Uses
+- 42. 10:37 - Pointers in Go with Practical Code Examples
+- 43. 13:01 - Understanding Go's Call By Value | Unraveling the Mystery of Maps and Slices
+- 44. 10:10 - Understanding Types and Methods in Go
+- 45. 08:21 - Value vs. Pointer Method Receivers in Go | Explained with Code Examples
+- 46. 09:32 - Go Functions, Methods, and Method Expressions Explained with Code Examples
+- 47. 08:33 - Deriving Types and Using Iota in Go with Code Examples
+- 48. 07:35 - Mastering Embedding (Composition) and Promotion in Go with Code Examples
+- 49. 10:23 - Understanding Interfaces in Go with Code Examples
+- 50. 08:44 - Go's Empty Interfaces, Type Assertions, and Type Switch: Explained with Code Examples
+- 51. 03:14 - Understanding Why a Nil Interface is Different in Go: Explained with Code Example
+- 52. 07:16 - Mastering Error Handling in Go: Techniques and Code Examples
+- 53. 09:56 - Sentinel Errors and Error Wrapping/Unwrapping in Go with Code Examples
+- 54. 07:58 - The Best Way to Compare Errors in Go: Using errors.Is & errors.As with Code Examples
+- 55. 07:11 - Panic and Recover in Go | Explained with Code Examples
+- 56. 09:44 - Go Modules Explained | Mastering Dependency Management in Go
+- 57. 11:08 - Understanding Packages, Exports, and Imports in Go with Code Examples
+- 58. 07:22 - Best Practices for Structuring Go Projects
+- 59. 07:45 - Mastering the Init Function in Go with Code Examples
+- 60. 11:18 - Understanding io.Reader & io.Writer in Go with Code Examples
+- 61. 13:52 - JSON Marshal, Unmarshal, and Encoding/Decoding in Go with Code Examples
+- 62. 11:52 - Mastering Custom JSON Marshalling and Unmarshalling in Go
+- 63. 08:43 - Working with Time in Go - Practical Guide
+- 64. 09:25 - Making HTTP Requests with the HTTP Client in Go
+- 65. 11:11 - Building an HTTP Server with GoLang
+- 66. 07:12 - Request Routing with ServeMux (Go 1.22) - Code Examples
+- 67. 12:32 - Mastering GoLang's Context Package with Code Examples
+- 68. 15:27 - Effective Testing in GoLang with Code Examples
+- 69. 09:01 - Concurrency Challenges Explained
+- 70. 12:25 - Understanding Deadlocks, Live-locks, and Starvation in Golang
+- 71. 06:21 - The Philosophy and Inspiration Behind Concurrency in Go
+- 72. 08:34 - Understanding the Go Scheduler and Goroutines
+- 73. 06:49 - Go sync.WaitGroup with Code Examples
+- 74. 07:49 - Go Mutex & RWMutex with Code Examples
+- 75. 07:56 - Go sync.Cond object with Code Examples
+- 76. 04:50 - Go sync.Once with Code Examples
+- 77. 05:23 - Go sync.Pool with Code Examples
+- 78. 13:03 - Understanding Channels in Go with Code Examples
+- 79. 09:57 - Mastering select and for-select | Essential Tools for Concurrency in Go
+- 80. 06:46 - Preventing Goroutine Leaks in Go | Using the Done Channel Effectively
+- 81. 08:11 - Error Handling in Goroutines | Best Practices and Examples in Go
+- 82. 33:00 - Go Concurrency Patterns | Building Efficient Streaming Data Pipelines
+- 83. 12:22 - Go Concurrency Patterns: Unlocking the Power of Fan-In and Fan-Out
+- 84. 08:28 - Effective Goroutine Management with Context in Go
