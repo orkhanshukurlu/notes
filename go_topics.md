@@ -1,5 +1,5 @@
 - initialize go module (go mod init)
-- main function
+- main function (main())
 - fmt package
 - short variable declaration (:=)
 - types
@@ -90,3 +90,24 @@
 - method method ((r.Method))
 - json struct tags
 - json tag (`json:"field"`)
+- json responses
+- response headers
+- encode method (json.NewEncoder().Encode())
+- header set method (w.Header().Set())
+- write header method (w.WriteHeader())
+- initialize function (init())
+- waitgroups
+- add method (wg.Add())
+- done method (wg.Done())
+- wait method (wg.Wait())
+- mutexs basics
+- lock method (mu.Lock())
+- unlock method (mu.Unlock())
+- panic and recover
+- embedded structs
+- context basics
+- with cancel method (ctx.WithCancel())
+- background method (ctx.Background())
+- done method (ctx.Done())
+- with timeout method (ctx.WithTimeout())
+- select
