@@ -1,0 +1,18 @@
+- docker build
+- docker builder du
+- docker builder ls
+- docker builder prune
+- docker compose build
+- docker compose down
+- docker compose up
+- docker exec
+- docker images
+- docker network ls
+- docker network prune
+- docker ps
+- docker rm
+- docker rmi
+- docker system df
+- docker system prune
+- docker volume ls
+- docker volume rm
