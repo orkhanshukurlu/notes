@@ -7,11 +7,15 @@
 - docker compose up
 - docker exec
 - docker images
+- docker logs
 - docker network ls
 - docker network prune
 - docker ps
 - docker rm
 - docker rmi
+- docker search
+- docker stats
+- docker stop
 - docker system df
 - docker system prune
 - docker volume ls

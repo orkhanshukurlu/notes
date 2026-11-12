@@ -1,5 +1,6 @@
 - CMD
 - COPY
 - FROM
+- HEALTHCHECK
 - RUN
 - WORKDIR

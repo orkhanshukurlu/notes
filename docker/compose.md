@@ -1,8 +1,8 @@
-
 - build
 - container_name
 - depends_on
 - environment
+- healthcheck
 - image
 - ports
 - restart
