@@ -77,6 +77,7 @@
 - obsolete - This software is obsolete (Bu proqram təminatı köhnəlib)
 - obviously - Obviously, this function returns an error (Aydındır ki, bu funksiya error qaytarır)
 - occupation - My occupation is backend development (Mənim peşəm backend development-dır)
+- omit - Don't omit important details (Vacib detalları buraxma)
 - otherwise - Handle the error, otherwise it may fail (Xətanı idarə et, yoxsa uğursuz ola bilər)
 - outset - We defined this at the outset (Bunu başlanğıcda müəyyən etdik)
 - portable - Go builds can be portable across systems (Go proqramları sistemlər arasında daşına bilir)
