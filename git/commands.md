@@ -1,0 +1,7 @@
+- git fetch
+- git history
+- git rebase
+- git reset
+- git restore
+- git rm
+- git tag

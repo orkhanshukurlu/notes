@@ -1,0 +1,4 @@
+- direct
+- fanout
+- headers
+- topic
