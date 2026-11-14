@@ -8,6 +8,7 @@
 - dive in - Let's dive into the code (Gəlin koda dərindən baxaq)
 - even though - I kept learning even though I was tired (Yorğun olsam da, öyrənməyə davam etdim)
 - first up - First up, let's check the code (İlk olaraq, kodu yoxlayaq)
+- gal pals - They have been gal pals for years (Onlar illərdir yaxın rəfiqədirlər)
 - get on well - We get on well with our team (Komandamızla yaxşı yola gedirik)
 - give that a go - Give this Go function a go (Bu Go funksiyasını sınamağa çalış)
 - go through - I need to go through the code again (Koda yenidən baxmalıyam)
