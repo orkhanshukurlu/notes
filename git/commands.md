@@ -1,6 +1,8 @@
 - git fetch
 - git history
 - git rebase
+- git remote
+- git remote remove
 - git reset
 - git restore
 - git rm
