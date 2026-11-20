@@ -1,3 +1,4 @@
+- git diff --staged
 - git fetch
 - git history
 - git rebase
