@@ -10,6 +10,7 @@
 - first up - First up, let's check the code (İlk olaraq, kodu yoxlayaq)
 - gal pals - They have been gal pals for years (Onlar illərdir yaxın rəfiqədirlər)
 - get on well - We get on well with our team (Komandamızla yaxşı yola gedirik)
+- get together - I get together with my family (Ailəmlə bir araya gəlirəm)
 - give that a go - Give this Go function a go (Bu Go funksiyasını sınamağa çalış)
 - go through - I need to go through the code again (Koda yenidən baxmalıyam)
 - going on - What is going on with this function? (Bu funksiyada nə baş verir?)
@@ -23,3 +24,4 @@
 - that's what - That's what this function does (Bu funksiyanın etdiyi məhz budur)
 - times out - The request times out (Sorğunun vaxtı bitir)
 - used to - I used to write everything in PHP (Əvvəllər hər şeyi PHP-də yazırdım)
+- used to - He was used to being alone (O, tək qalmağa öyrəşmişdi)
