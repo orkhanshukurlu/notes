@@ -1,3 +1,5 @@
 - fixed expressions
+- passive voice
+- phrasal verbs
 - relative pronouns
 - tenses
