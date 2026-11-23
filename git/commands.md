@@ -1,3 +1,4 @@
+- git cherry-pick
 - git diff --staged
 - git fetch
 - git history
